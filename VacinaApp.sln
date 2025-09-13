@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacinaApp", "VacinaApp.csproj", "{72A2C105-8B5D-4C87-B44E-59990C0D6B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A2C105-8B5D-4C87-B44E-59990C0D6B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A2C105-8B5D-4C87-B44E-59990C0D6B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A2C105-8B5D-4C87-B44E-59990C0D6B4A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{72A2C105-8B5D-4C87-B44E-59990C0D6B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A2C105-8B5D-4C87-B44E-59990C0D6B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A2C105-8B5D-4C87-B44E-59990C0D6B4A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9AC30B-1404-4912-99A1-897A9851F7E0}
+	EndGlobalSection
+EndGlobal
